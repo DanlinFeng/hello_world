@@ -1,6 +1,6 @@
 # hello_world
 test
 
-Hi humans!
+Hello!
 
 Danlin here. Nice to meet you all!
